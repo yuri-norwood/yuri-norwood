@@ -11,4 +11,4 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
 [![GitHub last commit](https://img.shields.io/github/last-commit/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark)](https://github.com/yuri-norwood/dotfiles)
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark)](https://github.com/yuri-norwood/dotfiles)
