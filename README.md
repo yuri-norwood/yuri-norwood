@@ -2,7 +2,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/yuri-norwood/)
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&langs_count=10&layout=compact&card_width=445&exclude_repo=wolfenstein)](https://github.com/yuri-norwood/)
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&langs_count=10&layout=compact&card_width=445&exclude_repo=wolfenstein&hide=css)](https://github.com/yuri-norwood/)
 
 ## Steal My Stuff!
 [![Build Status](https://travis-ci.com/yuri-norwood/dotfiles.svg?branch=main)](https://travis-ci.com/yuri-norwood/dotfiles)
