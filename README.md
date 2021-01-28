@@ -8,7 +8,7 @@
 [![Vint](https://github.com/yuri-norwood/dotfiles/workflows/vint/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Avint)
 [![Shellcheck](https://github.com/yuri-norwood/dotfiles/workflows/shellcheck/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Ashellcheck)
 [![Editorconfig](https://github.com/yuri-norwood/dotfiles/workflows/editorconfig/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Aeditorconfig)
-[![License](https://img.shields.io/badge/License-Unlicense-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-Unlicense-blue)](https://github.com/yuri-norwood/dotfiles/blob/main/.github/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
 [![Repo Size](https://img.shields.io/github/repo-size/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
 [![Code Size](https://img.shields.io/github/languages/code-size/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
