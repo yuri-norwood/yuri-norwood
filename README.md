@@ -5,9 +5,7 @@
 [![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&langs_count=10&layout=compact&card_width=445&exclude_repo=wolfenstein&hide=css&langs_count=10)](https://github.com/yuri-norwood/)
 
 ## Steal My Stuff!
-[![Vint](https://github.com/yuri-norwood/dotfiles/workflows/vint/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Avint)
-[![Shellcheck](https://github.com/yuri-norwood/dotfiles/workflows/shellcheck/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Ashellcheck)
-[![Editorconfig](https://github.com/yuri-norwood/dotfiles/workflows/editorconfig/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Aeditorconfig)
+[![Linters](https://github.com/yuri-norwood/dotfiles/workflows/linting/badge.svg)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Alinting)
 [![License](https://img.shields.io/badge/License-Unlicense-blue)](https://github.com/yuri-norwood/dotfiles/blob/main/.github/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
 [![Repo Size](https://img.shields.io/github/repo-size/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
