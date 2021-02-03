@@ -15,7 +15,7 @@
 [![Linters](https://img.shields.io/github/workflow/status/yuri-norwood/dotfiles/linting?label)](https://github.com/yuri-norwood/dotfiles/actions?query=workflow%3Alinting)
 [![License](https://img.shields.io/badge/-Unlicense-blue)](https://github.com/yuri-norwood/dotfiles/blob/main/.github/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
-[![Repo Size](https://img.shields.io/github/repo-size/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
+[![Repo Size](https://img.shields.io/github/repo-size/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/archive/main.tar.gz)
 [![Code Size](https://img.shields.io/github/languages/code-size/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles)
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
 [![Last Commit](https://img.shields.io/github/last-commit/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
