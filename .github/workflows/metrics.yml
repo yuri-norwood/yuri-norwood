@@ -21,7 +21,6 @@ jobs:
 
           # Show license details
           plugin_licenses: yes
-          plugin_licenses_setup: dotfiles scripts fortunes
           plugin_licenses_ratio: yes
           plugin_licenses_legal: yes
 
