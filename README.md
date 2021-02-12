@@ -1,10 +1,9 @@
 ## Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/yuri-norwood/)
-
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&langs_count=10&layout=compact&card_width=445&exclude_repo=wolfenstein&hide=css&langs_count=10)](https://github.com/yuri-norwood/)
+![stats](github-metrics.svg)
 
 ## Steal My Stuff!
+
 [![Vim](https://img.shields.io/github/labels/yuri-norwood/dotfiles/vim?logo=vim)](https://github.com/yuri-norwood/dotfiles/issues?q=label%3Avim)
 [![OpenBSD](https://img.shields.io/github/labels/yuri-norwood/dotfiles/openbsd?logo=openbsd&logoColor=000)](https://github.com/yuri-norwood/dotfiles/issues?q=label%3Aopenbsd)
 [![Suckless](https://img.shields.io/github/labels/yuri-norwood/dotfiles/suckless?logo=suckless)](https://github.com/yuri-norwood/dotfiles/issues?q=label%3Asuckless)
