@@ -1,6 +1,6 @@
 ## Stats
 
-![stats](github-metrics.svg)
+[![stats](github-metrics.svg)](https://github.com/yuri-norwood)
 
 ## Steal My Stuff!
 
