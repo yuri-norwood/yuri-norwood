@@ -1,6 +1,8 @@
 ## Stats
 
-[![My stats](.github/yuri-norwood-metrics.svg)](https://github.com/yuri-norwood)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/yuri-norwood/)
+
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&langs_count=10&layout=compact&card_width=445&exclude_repo=wolfenstein&hide=css&langs_count=10)](https://github.com/yuri-norwood/)
 
 ## Steal My Stuff!
 
@@ -20,4 +22,4 @@
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
 [![Last Commit](https://img.shields.io/github/last-commit/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
 
-[![Dotfiles stats](.github/dotfiles-metrics.svg)](https://github.com/yuri-norwood/dotfiles)
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark)](https://github.com/yuri-norwood/dotfiles)
