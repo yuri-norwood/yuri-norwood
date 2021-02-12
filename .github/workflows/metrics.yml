@@ -17,7 +17,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Pacific/Auckland
           filename: .github/yuri-norwood-metrics.svg
-          base: header
+          base: ""
 
           # Show isometric commit calendar
           plugin_isocalendar: yes
@@ -34,7 +34,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Pacific/Auckland
           filename: .github/dotfiles-metrics.svg
-          base: header
+          base: ""
           query: '{"repo":"dotfiles"}'
 
           # Show followup to issues and pulls
