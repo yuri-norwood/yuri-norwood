@@ -39,9 +39,3 @@ jobs:
 
           # Show followup to issues and pulls
           plugin_followup: true
-
-          # Show license details
-          plugin_licenses: true
-          plugin_licenses_setup: cp .github/LICENSE LICENSE
-          plugin_licenses_ratio: true
-          plugin_licenses_legal: true
