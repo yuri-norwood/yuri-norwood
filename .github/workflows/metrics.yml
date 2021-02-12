@@ -14,7 +14,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
+          # Show license details
           plugin_licenses: yes
           plugin_licenses_setup: dotfiles scripts fortunes
           plugin_licenses_ratio: yes
           plugin_licenses_legal: yes
+
+          # Show isometric commit calendar
+          plugin_isocalendar: yes
