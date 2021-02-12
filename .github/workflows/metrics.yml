@@ -19,11 +19,6 @@ jobs:
           filename: .github/yuri-norwood-metrics.svg
           base: header
 
-          # Show license details
-          plugin_licenses: yes
-          plugin_licenses_ratio: yes
-          plugin_licenses_legal: yes
-
           # Show isometric commit calendar
           plugin_isocalendar: yes
 
@@ -44,3 +39,8 @@ jobs:
 
           # Show followup to issues and pulls
           plugin_followup: yes
+
+          # Show license details
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          plugin_licenses_legal: yes
