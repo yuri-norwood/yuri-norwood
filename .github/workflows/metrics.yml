@@ -26,3 +26,22 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+
+      # Dotfile specific metrics
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Pacific/Auckland
+          filename: .github/dotfiles-metrics.svg
+          base: header
+          query: '{"repo":"dotfiles"}'
+
+          # Show followup to issues and pulls
+          plugin_followup: true
+
+          # Show license details
+          plugin_licenses: true
+          plugin_licenses_setup: cp .github/LICENSE LICENSE
+          plugin_licenses_ratio: true
+          plugin_licenses_legal: true
