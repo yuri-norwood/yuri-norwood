@@ -1,6 +1,6 @@
 ## Stats
 
-[![stats](github-metrics.svg)](https://github.com/yuri-norwood)
+[![My stats](.github/yuri-norwood-metrics.svg)](https://github.com/yuri-norwood)
 
 ## Steal My Stuff!
 
@@ -20,4 +20,4 @@
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
 [![Last Commit](https://img.shields.io/github/last-commit/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
 
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark)](https://github.com/yuri-norwood/dotfiles)
+[![Dotfiles stats](.github/dotfiles-metrics.svg)](https://github.com/yuri-norwood/dotfiles)
