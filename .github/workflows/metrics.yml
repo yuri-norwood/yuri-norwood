@@ -13,6 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Pacific/Auckland
 
           # Show license details
           plugin_licenses: yes
@@ -22,3 +23,8 @@ jobs:
 
           # Show isometric commit calendar
           plugin_isocalendar: yes
+
+          # Show coding habbits
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
