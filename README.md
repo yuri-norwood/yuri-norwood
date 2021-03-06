@@ -27,4 +27,6 @@
 
 ## Gophers!
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/yuri-norwood/going-gophers)](https://goreportcard.com/report/github.com/yuri-norwood/going-gophers)
+
 [![Going Gophers](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark)](https://github.com/yuri-norwood/going-gophers)
