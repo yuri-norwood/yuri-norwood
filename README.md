@@ -24,3 +24,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/yuri-norwood/dotfiles)](https://github.com/yuri-norwood/dotfiles/commits)
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark)](https://github.com/yuri-norwood/dotfiles)
+
+## Gophers!
+
+[![Going Gophers](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark)](https://github.com/yuri-norwood/going-gophers)
