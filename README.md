@@ -1,6 +1,6 @@
 ## Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/yuri-norwood/)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuri-norwood&theme=dark&hide_border=true)](https://github.com/yuri-norwood/yuri-norwood)[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&exclude_repo=wolfenstein&hide=css&langs_count=10&hide_border=true)](https://github.com/yuri-norwood/)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/yuri-norwood/)[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&exclude_repo=wolfenstein&hide=css&langs_count=10&hide_border=true)](https://github.com/yuri-norwood/)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuri-norwood&theme=dark&hide_border=true)](https://github.com/yuri-norwood/yuri-norwood)
 
 ## Steal My Stuff!
 
