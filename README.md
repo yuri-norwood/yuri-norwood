@@ -30,6 +30,7 @@
 ## Gophers!
 
 [![Go Report Card (Going Gophers)](https://goreportcard.com/badge/github.com/yuri-norwood/going-gophers)](https://goreportcard.com/report/github.com/yuri-norwood/going-gophers)
+[![Go Reference (Going Gophers)](https://pkg.go.dev/badge/github.com/yuri-norwood/going-gophers.svg)](https://pkg.go.dev/github.com/yuri-norwood/going-gophers)
 
 [![Going Gophers](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark)](https://github.com/yuri-norwood/going-gophers)
 
