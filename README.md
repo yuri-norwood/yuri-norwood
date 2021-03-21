@@ -1,10 +1,16 @@
-## Stats
+<h2 align="center">Stats</h2>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)](https://github.com/yuri-norwood/)
-  
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&hide=css&langs_count=10&hide_border=true)](https://github.com/yuri-norwood/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuri-norwood&theme=dark&hide_border=true)](https://github.com/yuri-norwood/yuri-norwood)
+<p align="center">
+  <a href="https://github.com/yuri-norwood">
+    <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/yuri-norwood">
+    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&hide=css&langs_count=10&hide_border=true" />
+  </a>
+  <a href="https://github.com/yuri-norwood">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yuri-norwood&theme=dark&hide_border=true" />
+  </a>
+</p>
 
 ## Steal My Stuff!
 
