@@ -44,17 +44,37 @@
   </a>
 </p>
 
-## Gophers!
+<h2 align="center">Gophers!</h2>
 
-[![Go Report Card (Going Gophers)](https://goreportcard.com/badge/github.com/yuri-norwood/going-gophers)](https://goreportcard.com/report/github.com/yuri-norwood/going-gophers)
-[![Go Reference (Going Gophers)](https://pkg.go.dev/badge/github.com/yuri-norwood/going-gophers.svg)](https://pkg.go.dev/github.com/yuri-norwood/going-gophers)
-[![Top Language](https://img.shields.io/github/languages/top/yuri-norwood/going-gophers)](https://github.com/yuri-norwood/going-gophers)
-[![Repo Size](https://img.shields.io/github/repo-size/yuri-norwood/going-gophers)](https://github.com/yuri-norwood/going-gophers/archive/main.tar.gz)
-[![Code Size](https://img.shields.io/github/languages/code-size/yuri-norwood/going-gophers)](https://github.com/yuri-norwood/going-gophers)
-[![Commit Activity](https://img.shields.io/github/commit-activity/w/yuri-norwood/going-gophers)](https://github.com/yuri-norwood/going-gophers/commits)
-[![Last Commit](https://img.shields.io/github/last-commit/yuri-norwood/going-gophers)](https://github.com/yuri-norwood/going-gophers/commits)
+<p align="center">
+  <a href="https://goreportcard.com/report/github.com/yuri-norwood/going-gophers">
+    <img alt="Go Report Card (Going Gophers)" src="https://goreportcard.com/badge/github.com/yuri-norwood/going-gophers" />
+  </a>
+  <a href="https://pkg.go.dev/github.com/yuri-norwood/going-gophers">
+    <img alt="Go Reference (Going Gophers)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/going-gophers.svg" />
+  </a>
+  <a href="https://github.com/yuri-norwood/going-gophers">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/going-gophers" />
+  </a>
+  <a href="https://github.com/yuri-norwood/going-gophers/archive/main.tar.gz">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/yuri-norwood/going-gophers" />
+  </a>
+  <a href="https://github.com/yuri-norwood/going-gophers">
+    <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/going-gophers" />
+  </a>
+  <a href="https://github.com/yuri-norwood/going-gophers/commits">
+    <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/yuri-norwood/going-gophers" />
+  </a>
+  <a href="https://github.com/yuri-norwood/going-gophers/commits">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/going-gophers" />
+  </a>
+</p>
 
-[![Going Gophers](https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark)](https://github.com/yuri-norwood/going-gophers)
+<p align="center">
+  <a href="https://github.com/yuri-norwood/going-gophers">
+    <img alt="Going Gophers" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark" />
+  </a>
+</p>
 
 ## ++[->+++++++<]>[-<+++++++>]<.++++.+++++.
 
