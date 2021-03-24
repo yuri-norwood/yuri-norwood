@@ -103,7 +103,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuri-norwood/going-gophers">
-    <img alt="Going Gophers" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark" />
+  <a href="https://github.com/yuri-norwood/bfk">
+    <img alt="bkf" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=bfk&theme=dark" />
   </a>
 </p>
