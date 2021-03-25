@@ -1,3 +1,11 @@
+<h1 align="center">Hi, I'm Yuri</h1>
+
+<h6 align="center">
+  Photo credit: <a href="https://twitter.com/ActualJinJin">
+    @ActualJinJin
+  </a>
+</h6>
+
 <h2 align="center">Stats</h2>
 
 <p align="center">
