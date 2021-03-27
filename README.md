@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Yuri</h1>
 
+<p align="center">
+  I like puzzles and writing code.
+</p>
+
 <h6 align="center">
   Photo credit: <a href="https://twitter.com/ActualJinJin">
     @ActualJinJin
