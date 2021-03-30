@@ -65,6 +65,12 @@
   <a href="https://pkg.go.dev/github.com/yuri-norwood/going-gophers">
     <img alt="Go Reference (Going Gophers)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/going-gophers.svg" />
   </a>
+  <a href="https://github.com/yuri-norwood/going-gophers/blob/main/go.mod">
+    <img alt="Go Version" src="https://img.shields.io/github/go-mod/go-version/yuri-norwood/going-gophers" />
+  </a>
+  <a href="https://github.com/yuri-norwood/going-gophers/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/yuri-norwood/going-gophers" />
+  </a>
   <a href="https://github.com/yuri-norwood/going-gophers">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/going-gophers" />
   </a>
@@ -96,6 +102,15 @@
   </a>
   <a href="https://pkg.go.dev/github.com/yuri-norwood/bfk">
     <img alt="Go Reference (bfk)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/bfk.svg" />
+  </a>
+  <a href="https://github.com/yuri-norwood/bfk/blob/main/go.mod">
+    <img alt="Go Version" src="https://img.shields.io/github/go-mod/go-version/yuri-norwood/bfk" />
+  </a>
+  <a href="https://github.com/yuri-norwood/bfk/releases/latest">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/yuri-norwood/bfk?include_prereleases" />
+  </a>
+  <a href="https://github.com/yuri-norwood/bfk/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/yuri-norwood/bfk" />
   </a>
   <a href="https://github.com/yuri-norwood/bfk">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/bfk" />
