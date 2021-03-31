@@ -41,6 +41,9 @@
 <h2 align="center">Steal My Stuff!</h2>
 
 <p align="center">
+  <a href="https://github.com/yuri-norwood/dotfiles/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/github/license/yuri-norwood/dotfiles" />
+  </a>
   <a href="https://github.com/yuri-norwood/dotfiles">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/dotfiles" />
   </a>
