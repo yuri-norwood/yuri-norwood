@@ -1,3 +1,11 @@
+<!-- Unless otherwise specified, (C) Yuri Norwood, under the Unlicense. -->
+
+<!--
+  Although I like to strictly adhear to a policy of only writing Markdown code
+  within .md files, I'm making a unique exception here as this is a community
+  facing file with the explicit purpose of being a personal profile.
+-->
+
 <h1 align="center">Hi, I'm Yuri</h1>
 
 <p align="center">
