@@ -16,6 +16,9 @@
   Photo credit: <a href="https://twitter.com/ActualJinJin">
     @ActualJinJin
   </a>
+  (Based on original by <a href="https://twitter.com/reneefrench">
+    @reneefrench
+  </a>)
 </h6>
 
 <h2 align="center">Stats</h2>
