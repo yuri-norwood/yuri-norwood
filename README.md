@@ -13,12 +13,8 @@
 </p>
 
 <h6 align="center">
-  Photo credit: <a href="https://twitter.com/ActualJinJin">
-    @ActualJinJin
-  </a>
-  (Based on original by <a href="https://twitter.com/reneefrench">
-    @reneefrench
-  </a>)
+  Photo credit: <a href="https://twitter.com/ActualJinJin">@ActualJinJin</a>
+  (based on original by <a href="https://twitter.com/reneefrench">@reneefrench</a>)
 </h6>
 
 <h2 align="center">Stats</h2>
