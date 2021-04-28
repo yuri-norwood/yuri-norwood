@@ -52,9 +52,9 @@
   <a href="https://github.com/yuri-norwood/dotfiles">
     <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/dotfiles" />
   </a>
-  <a href="https://github.com/yuri-norwood/dotfiles/commits">
+  <!--a href="https://github.com/yuri-norwood/dotfiles/commits">
     <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/yuri-norwood/dotfiles" />
-  </a>
+  </a-->
   <a href="https://github.com/yuri-norwood/dotfiles/commits">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/dotfiles" />
   </a>
@@ -90,9 +90,9 @@
   <a href="https://github.com/yuri-norwood/going-gophers">
     <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/going-gophers" />
   </a>
-  <a href="https://github.com/yuri-norwood/going-gophers/commits">
+  <!--a href="https://github.com/yuri-norwood/going-gophers/commits">
     <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/yuri-norwood/going-gophers" />
-  </a>
+  </a-->
   <a href="https://github.com/yuri-norwood/going-gophers/commits">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/going-gophers" />
   </a>
@@ -131,9 +131,9 @@
   <a href="https://github.com/yuri-norwood/bfk">
     <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/bfk" />
   </a>
-  <a href="https://github.com/yuri-norwood/bfk/commits">
+  <!--a href="https://github.com/yuri-norwood/bfk/commits">
     <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/yuri-norwood/bfk" />
-  </a>
+  </a-->
   <a href="https://github.com/yuri-norwood/bfk/commits">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/bfk" />
   </a>
