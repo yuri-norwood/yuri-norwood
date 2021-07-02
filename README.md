@@ -69,38 +69,38 @@
 <h2 align="center">Gophers!</h2>
 
 <p align="center">
-  <a href="https://goreportcard.com/report/github.com/yuri-norwood/going-gophers">
-    <img alt="Go Report Card (Going Gophers)" src="https://goreportcard.com/badge/github.com/yuri-norwood/going-gophers" />
+  <a href="https://goreportcard.com/report/github.com/yuri-norwood/license">
+    <img alt="Go Report Card (Going Gophers)" src="https://goreportcard.com/badge/github.com/yuri-norwood/license" />
   </a>
-  <a href="https://pkg.go.dev/github.com/yuri-norwood/going-gophers">
-    <img alt="Go Reference (Going Gophers)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/going-gophers.svg" />
+  <a href="https://pkg.go.dev/github.com/yuri-norwood/license">
+    <img alt="Go Reference (Going Gophers)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/license.svg" />
   </a>
-  <a href="https://github.com/yuri-norwood/going-gophers/blob/main/go.mod">
-    <img alt="Go Version" src="https://img.shields.io/github/go-mod/go-version/yuri-norwood/going-gophers" />
+  <a href="https://github.com/yuri-norwood/license/blob/master/go.mod">
+    <img alt="Go Version" src="https://img.shields.io/github/go-mod/go-version/yuri-norwood/license" />
   </a>
-  <a href="https://github.com/yuri-norwood/going-gophers/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/yuri-norwood/going-gophers" />
+  <a href="https://github.com/yuri-norwood/license/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-blue" />
   </a>
-  <a href="https://github.com/yuri-norwood/going-gophers">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/going-gophers" />
+  <a href="https://github.com/yuri-norwood/license">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/license" />
   </a>
-  <a href="https://github.com/yuri-norwood/going-gophers/archive/main.tar.gz">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/yuri-norwood/going-gophers" />
+  <a href="https://github.com/yuri-norwood/license/archive/master.tar.gz">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/yuri-norwood/license" />
   </a>
-  <a href="https://github.com/yuri-norwood/going-gophers">
-    <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/going-gophers" />
+  <a href="https://github.com/yuri-norwood/license">
+    <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/license" />
   </a>
-  <!--a href="https://github.com/yuri-norwood/going-gophers/commits">
-    <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/yuri-norwood/going-gophers" />
+  <!--a href="https://github.com/yuri-norwood/license/commits">
+    <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/w/yuri-norwood/license" />
   </a-->
-  <a href="https://github.com/yuri-norwood/going-gophers/commits">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/going-gophers" />
+  <a href="https://github.com/yuri-norwood/license/commits">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/license" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yuri-norwood/going-gophers">
-    <img alt="Going Gophers" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=going-gophers&theme=dark" />
+    <img alt="license" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=license&theme=dark" />
   </a>
 </p>
 
