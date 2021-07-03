@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuri-norwood/going-gophers">
+  <a href="https://github.com/yuri-norwood/license">
     <img alt="license" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=license&theme=dark" />
   </a>
 </p>
