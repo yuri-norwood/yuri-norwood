@@ -68,6 +68,8 @@
 
 <h2 align="center">Gophers!</h2>
 
+<h3 align="center">License your code!</h3>
+
 <p align="center">
   <a href="https://goreportcard.com/report/github.com/yuri-norwood/license">
     <img alt="Go Report Card (Going Gophers)" src="https://goreportcard.com/badge/github.com/yuri-norwood/license" />
@@ -104,7 +106,7 @@
   </a>
 </p>
 
-<h2 align="center">++[->+++++++<]>[-<+++++++>]<.++++.+++++.</h2>
+<h3 align="center">++[->+++++++<]>[-<+++++++>]<.++++.+++++.</h3>
 
 <p align="center">
   <a href="https://goreportcard.com/report/github.com/yuri-norwood/bfk">
