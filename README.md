@@ -75,16 +75,16 @@
   <a href="https://pkg.go.dev/github.com/yuri-norwood/license">
     <img alt="Go Reference (Going Gophers)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/license.svg" />
   </a>
-  <a href="https://github.com/yuri-norwood/license/blob/master/go.mod">
+  <a href="https://github.com/yuri-norwood/license/blob/main/go.mod">
     <img alt="Go Version" src="https://img.shields.io/github/go-mod/go-version/yuri-norwood/license" />
   </a>
-  <a href="https://github.com/yuri-norwood/license/blob/master/LICENSE">
+  <a href="https://github.com/yuri-norwood/license/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blue" />
   </a>
   <a href="https://github.com/yuri-norwood/license">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/license" />
   </a>
-  <a href="https://github.com/yuri-norwood/license/archive/master.tar.gz">
+  <a href="https://github.com/yuri-norwood/license/archive/main.tar.gz">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/yuri-norwood/license" />
   </a>
   <a href="https://github.com/yuri-norwood/license">
