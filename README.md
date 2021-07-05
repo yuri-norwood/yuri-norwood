@@ -81,7 +81,7 @@
       <a href="https://goreportcard.com/report/github.com/yuri-norwood/license">
         <img alt="Go Report Card (Going Gophers)" src="https://goreportcard.com/badge/github.com/yuri-norwood/license" />
       </a>
-      <a href="https://pkg.go.dev/github.com/yuri-norwood/license">
+      <a href="https://pkg.go.dev/github.com/yuri-norwood/license/v5">
         <img alt="Go Reference (Going Gophers)" src="https://pkg.go.dev/badge/github.com/yuri-norwood/license.svg" />
       </a>
       <a href="https://github.com/yuri-norwood/license/blob/main/go.mod">
