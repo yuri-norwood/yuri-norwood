@@ -66,7 +66,7 @@
     </p>
     <p align="center">
       <a href="https://github.com/yuri-norwood/dotfiles">
-        <img alt="Dotfiles" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark" />
+        <img alt="Dotfiles" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=dotfiles&theme=dark&hide_border=true" />
       </a>
     </p>
   </article>
@@ -108,7 +108,10 @@
     </p>
     <p align="center">
       <a href="https://github.com/yuri-norwood/license">
-        <img alt="license" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=license&theme=dark" />
+        <img alt="license" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=license&theme=dark&show_owner=true&hide_border=true" />
+      </a>
+      <a href="https://github.com/nishanths/license">
+        <img alt="license" src="https://github-readme-stats.vercel.app/api/pin/?username=nishanths&repo=license&theme=dark&show_owner=true&hide_border=true" />
       </a>
     </p>
   </article>
@@ -149,7 +152,7 @@
     </p>
     <p align="center">
       <a href="https://github.com/yuri-norwood/bfk">
-        <img alt="bkf" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=bfk&theme=dark" />
+        <img alt="bkf" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=bfk&theme=dark&hide_border=true" />
       </a>
     </p>
   </article>
