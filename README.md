@@ -117,7 +117,7 @@
   </article>
 
   <article>
-    <h3 align="center">++[->+++++++<]>[-<+++++++>]<.++++.+++++.</h3>
+    <h3 align="center">++[-&gt;+++++++&lt;]&gt;[-&lt;+++++++&gt;]&lt;.++++.+++++.</h3>
     <p align="center">
       <a href="https://goreportcard.com/report/github.com/yuri-norwood/bfk">
         <img alt="Go Report Card (bfk)" src="https://goreportcard.com/badge/github.com/yuri-norwood/bfk" />
