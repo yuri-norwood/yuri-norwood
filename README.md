@@ -29,7 +29,7 @@
 
   <p align="center">
     <a href="https://github.com/yuri-norwood">
-      <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&langs_count=10&hide_border=true&exclude_repo=dotfiles,wolfenstein" />
+      <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-norwood&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&langs_count=10&hide_border=true&exclude_repo=wolfenstein&hide=ini" />
     </a>
   </p>
 
