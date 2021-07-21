@@ -188,7 +188,7 @@
     </p>
     <p align="center">
       <a href="https://github.com/yuri-norwood/fortune.js">
-        <img alt="fortune.js" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=fortune.js&theme=dark&show_owner=true&hide_border=true" />
+        <img alt="fortune.js" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=fortune.js&theme=dark&hide_border=true" />
       </a>
     </p>
   </article>
