@@ -157,3 +157,62 @@
     </p>
   </article>
 </section>
+
+<section>
+  <h2 align="center">Fortunes!</h2>
+
+  <article>
+    <h3 align="center">Fortune Cookies in the Browser</h3>
+    <p align="center">
+      <a href="https://github.com/yuri-norwood/fortune.js/blob/main/LICENSE">
+        <img alt="License" src="https://img.shields.io/github/license/yuri-norwood/fortune.js" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortune.js">
+        <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/fortune.js" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortune.js/archive/main.tar.gz">
+        <img alt="Repo Size" src="https://img.shields.io/github/repo-size/yuri-norwood/fortune.js" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortune.js">
+        <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/fortune.js" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortunes.js/blob/main/min/fortune.min.js">
+        <img alt="Minified Size" src="https://img.shields.io/github/size/yuri-norwood/fortune.js/min/fortune.min.js?label=minified" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortune.js/commits">
+        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/fortune.js" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/yuri-norwood/fortune.js">
+        <img alt="fortune.js" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=fortune.js&theme=dark&show_owner=true&hide_border=true" />
+      </a>
+    </p>
+  </article>
+
+  <article>
+    <h3 align="center">Good Fortune and Song</h3>
+    <p align="center">
+      <a href="https://github.com/yuri-norwood/fortunes/blob/main/LICENSE">
+        <img alt="License" src="https://img.shields.io/github/license/yuri-norwood/fortunes" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortunes">
+        <img alt="Top Language" src="https://img.shields.io/github/languages/top/yuri-norwood/fortunes" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortunes/archive/main.tar.gz">
+        <img alt="Repo Size" src="https://img.shields.io/github/repo-size/yuri-norwood/fortunes" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortunes">
+        <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/yuri-norwood/fortunes" />
+      </a>
+      <a href="https://github.com/yuri-norwood/fortunes/commits">
+        <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/fortunes" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/yuri-norwood/fortunes">
+        <img alt="fortunes" src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-norwood&repo=fortunes&theme=dark&hide_border=true" />
+      </a>
+    </p>
+  </article>
+</section>
