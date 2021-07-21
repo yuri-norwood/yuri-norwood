@@ -182,6 +182,9 @@
       <a href="https://github.com/yuri-norwood/fortune.js/commits">
         <img alt="Last Commit" src="https://img.shields.io/github/last-commit/yuri-norwood/fortune.js" />
       </a>
+      <a href="https://www.jsdelivr.com/package/gh/yuri-norwood/fortune.js">
+        <img alt="jsDelivr CDN" src="https://img.shields.io/jsdelivr/gh/hm/yuri-norwood/fortune.js" />
+      </a>
     </p>
     <p align="center">
       <a href="https://github.com/yuri-norwood/fortune.js">
